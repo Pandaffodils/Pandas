@@ -1,0 +1,16 @@
+body {
+    font-family: Avenir, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #FFFFE4;
+    max-width: 800px;
+    margin: 0 auto;
+    background: #CCCCFF
+}
+
+h1 {
+    color: #FFFFE4;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
